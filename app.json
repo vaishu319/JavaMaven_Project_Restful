@@ -1,0 +1,19 @@
+{
+  "name": "Example Customer authentication Backend",
+  "description": "For testing the Customer authorisation",
+  "repository": "https://github.com/vaishu319/JavaMaven_Project_Restful.git",
+  "keywords": [
+    "java",
+    "customer"
+  ],
+  "env": {
+    "CUSTOMER_APP_SERVER_CODE": {
+      "description": "Ask the Customer team for it.",
+      "required": true
+    },
+    "CUSTOMER_APP_SERVER_KEY": {
+      "description": "Ask the Customer team for it.",
+      "required": true
+    }
+  }
+}
