@@ -9,7 +9,7 @@ Make sure you have Java and Maven installed.  Also, install the [Heroku CLI](htt
 
 ```sh
 $ git clone https://github.com/vaishu319/JavaMaven_Project_Restful.git
-$ cd example-java-backend
+$ cd JavaMaven_Project_Restful
 $ mvn install
 $ heroku local:start
 ```
